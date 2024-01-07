@@ -1,2 +1,1 @@
 # Grocery-Shopping-System
-The "JSC Mart Grocery Shopping System" is a Python-based program that simulates a virtual shopping experience. Users can explore different categories of items, view products in alphabetical order or sorted by ascending price, and add items to their virtual shopping cart. The system offers features such as checking out, editing the cart, clearing the cart, and making payments. Prices include a simulated Goods and Services Tax (GST). This program provides a user-friendly interface for a virtual grocery shopping experience
